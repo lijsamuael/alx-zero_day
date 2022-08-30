@@ -1,1 +1,1 @@
-My first readme
+This is another repository for my alx journey.
